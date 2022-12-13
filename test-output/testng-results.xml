@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke   Suite" duration-ms="285" started-at="2022-12-12T22:55:37 GMT" finished-at="2022-12-12T22:55:38 GMT">
+    <groups>
+    </groups>
+    <test name="Smoke Test" duration-ms="285" started-at="2022-12-12T22:55:37 GMT" finished-at="2022-12-12T22:55:38 GMT">
+    </test> <!-- Smoke Test -->
+  </suite> <!-- Smoke   Suite -->
+</testng-results>
